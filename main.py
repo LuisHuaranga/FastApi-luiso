@@ -6,6 +6,6 @@ app = FastAPI()
 def read_root():
     return {
         "status": "online",
-        "mensaje": "VIVA LA el puero 4000",
-        "entorno": "Docker Engine en NICK"
+        "mensaje": "VIVA LAd el puero 4000",
+        "entorno": "Docker Engine en LUIS"
     }
